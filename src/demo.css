@@ -1,0 +1,19 @@
+
+/* body{background: #000;} */
+.flex{display: flex;}
+.main{text-align: center;background: #000;} 
+h1{color: antiquewhite;}
+
+.div-1{background: rgba(5, 99, 187, 0.40); padding: 15px; display: flex; flex-flow: row wrap;}
+.div-2{color: antiquewhite; padding: 15px;}
+
+input{display: inline-block; padding: 10px 30px; text-align: center;}
+.btn{background: #c2932f;}
+table{height: 20px; width: 300px;}
+.center{margin: auto;}
+.data{width: 400px; height: 500px; margin: 16px; color: #c2932f;}
+.data img{width: 350px;; height: 350px;}
+.data .category{font-size: 25px; font-weight: 600;color: aqua;}
+.product-img img{width: 400px; height: 500px;}
+
+
